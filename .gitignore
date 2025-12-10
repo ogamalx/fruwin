@@ -1,0 +1,15 @@
+# fruWin outputs
+output/WinuX/*
+!output/WinuX/boot/
+!output/WinuX/boot/.gitkeep
+!output/WinuX/live/
+!output/WinuX/live/.gitkeep
+
+# Logs
+*.log
+
+# Editor / OS junk
+*.swp
+*~
+.DS_Store
+Thumbs.db
